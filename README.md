@@ -275,17 +275,23 @@ If we missed any open-source projects or related articles, we would like to comp
 If you find our work useful for your research, please consider citing the paper :
 
 ```
-@misc{meng2024echomimicv2,
+@article{meng2024echomimicv2,
   title={EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation},
-  author={Rang Meng, Xingyu Zhang, Yuming Li, Chenguang Ma},
-  year={2024},
-  eprint={2411.10061},
-  archivePrefix={arXiv}
+  author={Meng, Rang and Zhang, Xingyu and Li, Yuming and Ma, Chenguang},
+  journal={arXiv preprint arXiv:2411.10061},
+  year={2024}
+}
+@article{meng2025echomimicv3,
+  title={Echomimicv3: 1.3 b parameters are all you need for unified multi-modal and multi-task human animation},
+  author={Meng, Rang and Wang, Yan and Wu, Weipeng and Zheng, Ruobing and Li, Yuming and Ma, Chenguang},
+  journal={arXiv preprint arXiv:2507.03905},
+  year={2025}
 }
 ```
 
 ## &#x1F31F; Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=antgroup/echomimic_v2&type=Date)](https://star-history.com/#antgroup/echomimic_v2&Date)
+
 
 
 
